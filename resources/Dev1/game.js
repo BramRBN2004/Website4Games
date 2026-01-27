@@ -37,7 +37,7 @@ If you don't use JSHint (or are using it with a configuration file), you can saf
 /* globals PS : true */
 
 "use strict"; // Do NOT remove this directive!
-
+//
 /*
 PS.init( system, options )
 Called once after engine is initialized but before event-polling begins.
